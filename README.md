@@ -44,7 +44,7 @@ Classes:
 
 ## Confusion Matrix
 
-![Confusion Matrix](Images/Confusion_matrix.png)
+![Confusion Matrix](Images/Confusion_Matrix.png)
 
 ## Author
 Ch.Rambhadra kumar
