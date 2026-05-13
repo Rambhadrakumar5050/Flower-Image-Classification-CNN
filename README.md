@@ -34,6 +34,18 @@ Classes:
 - precision - 90%
 - F1 score - 90%
 
+
+## Sample Images
+![Sample Images](Images/Sample_Images.png)
+
+  ## Accuracy Graph
+
+![Accuracy Graph](Images/Accuracy.png)
+
+## Confusion Matrix
+
+![Confusion Matrix](Images/Confusion_matrix.png)
+
 ## Author
 Ch.Rambhadra kumar
 rambhadrakumar23@gmail.com
