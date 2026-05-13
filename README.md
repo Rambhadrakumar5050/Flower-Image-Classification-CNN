@@ -29,7 +29,12 @@ Classes:
 - Precision and F1-score evaluation
 
 ## Results
-- Validation Accuracy: ~87% to 96% (depending on training)
+- Validation Accuracy:  96%
+- Accuracy - 98%
+- precision - 90%
+- F1 score - 90%
 
 ## Author
-[Your Name]
+Ch.Rambhadra kumar
+rambhadrakumar23@gmail.com
+7207330113
